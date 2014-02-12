@@ -1,0 +1,17 @@
+[09-Feb-2014 19:00:39] PHP Parse error:  syntax error, unexpected T_VAR in /home/kyrillov/public_html/yii/index.php on line 16
+[09-Feb-2014 19:01:28] PHP Parse error:  syntax error, unexpected T_VAR in /home/kyrillov/public_html/yii/index.php on line 16
+[10-Feb-2014 10:56:34] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/kyrillov/public_html/yii/index.php on line 16
+[11-Feb-2014 20:01:29] PHP Parse error:  syntax error, unexpected T_LOGICAL_OR in /home/kyrillov/public_html/yii/index.php on line 16
+[11-Feb-2014 20:02:10] PHP Parse error:  syntax error, unexpected '<' in /home/kyrillov/public_html/yii/index.php on line 16
+[11-Feb-2014 20:15:07] PHP Parse error:  syntax error, unexpected T_CLASS, expecting T_STRING in /home/kyrillov/public_html/yii/index.php on line 16
+[11-Feb-2014 20:15:08] PHP Parse error:  syntax error, unexpected T_CLASS, expecting T_STRING in /home/kyrillov/public_html/yii/index.php on line 16
+[11-Feb-2014 20:15:27] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE in /home/kyrillov/public_html/yii/index.php on line 18
+[11-Feb-2014 20:15:28] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE in /home/kyrillov/public_html/yii/index.php on line 18
+[11-Feb-2014 20:17:26] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE in /home/kyrillov/public_html/yii/index.php on line 18
+[11-Feb-2014 20:17:28] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE in /home/kyrillov/public_html/yii/index.php on line 18
+[11-Feb-2014 20:18:55] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/kyrillov/public_html/yii/index.php on line 38
+[11-Feb-2014 20:18:56] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/kyrillov/public_html/yii/index.php on line 38
+[11-Feb-2014 20:19:14] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/kyrillov/public_html/yii/index.php on line 38
+[11-Feb-2014 20:19:15] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/kyrillov/public_html/yii/index.php on line 38
+[11-Feb-2014 20:20:18] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE in /home/kyrillov/public_html/yii/index.php on line 18
+[11-Feb-2014 20:22:31] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE in /home/kyrillov/public_html/yii/index.php on line 18
